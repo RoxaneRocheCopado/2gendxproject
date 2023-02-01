@@ -13,6 +13,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "Accountcustomfield": "0Ho7Q000000blgtSAA"
+        "Accountcustomfield": "0Ho7Q000000blgtSAA",
+        "Accountcustomfield@1.0.0-0-main": "04t7Q000000hOaGQAU"
     }
 }
