@@ -7,11 +7,11 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>class1</apexClass>
+        <apexClass>class1test</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>class1test</apexClass>
+        <apexClass>class1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
