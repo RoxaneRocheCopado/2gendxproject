@@ -2,11 +2,20 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "Accountcustomfield",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT"
     }
   ],
   "name": "cohortFall22",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "55.0"
+  "sourceApiVersion": "60.0",
+  "packageAliases": {
+    "Accountcustomfield": "0Ho7Q000000blgtSAA",
+    "Accountcustomfield@1.0.0-0-main": "04t7Q000000hOaGQAU",
+    "Accountcustomfield@0.1.0-1-main": "04t7Q000000hOaLQAU",
+    "Accountcustomfield@0.1.0-2-main": "04t7Q000000hOtlQAE"
+  }
 }
